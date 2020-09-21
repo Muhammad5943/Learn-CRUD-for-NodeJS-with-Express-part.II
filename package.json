@@ -1,0 +1,21 @@
+{
+  "name": "pretest",
+  "version": "1.0.0",
+  "description": "This preTest before learn nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "pretest",
+    "nodejs",
+    "api"
+  ],
+  "author": "Muhammad Aji Putra",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
